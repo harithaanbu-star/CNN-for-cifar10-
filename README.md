@@ -1,4 +1,5 @@
 ================================================================================
+                   
                    CIFAR-10 Image Classification using CNN
                          Deep Learning Project - README
 
